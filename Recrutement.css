@@ -11,6 +11,8 @@
 .u-section-1 .u-text-1 {
   font-weight: 700;
   margin: 100px auto 0 0;
+  text-align: justify;
+  text-justify: auto;
 }
 
 .u-section-1 .u-line-1 {
